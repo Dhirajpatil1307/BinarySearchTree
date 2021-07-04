@@ -1,4 +1,4 @@
-package com.bridgelabz.bst.BSTUC2;
+package com.bridgelabz.bst.BSTUC3;
 
 import org.junit.Assert;
 import org.junit.Test;
